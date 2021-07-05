@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug/_deps/cpr-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug/_deps/json-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug/_deps/zlib-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/mac_arm64/_deps/cpr-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/mac_arm64/_deps/json-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/mac_arm64/_deps/zlib-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/os64/_deps/cpr-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/os64/_deps/json-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/os64/_deps/zlib-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/simulatorarm64/_deps/cpr-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/simulatorarm64/_deps/json-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/out/simulatorarm64/_deps/zlib-src" vcs="Git" />
+  </component>
+</project>
