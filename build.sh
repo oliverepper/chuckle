@@ -67,3 +67,7 @@ xcodebuild -create-xcframework \
 # copy Header
 mkdir -p libchuckle.xcframework/Headers
 cp include/chuckle/chuckle.h libchuckle.xcframework/Headers
+
+# copy xcframework into Swift package
+mkdir -p ChuckleWrapper/lib
+cp -a libchuckle.xcframework ChuckleWrapper/lib
